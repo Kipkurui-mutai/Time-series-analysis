@@ -1,4 +1,4 @@
-# Time-series-with-pandas
+# Time-series
 
 # Time series analysis notebooks.
 
