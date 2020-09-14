@@ -1,8 +1,8 @@
 # Time-series-with-pandas
 
-#Time series analysis notebooks.
+# Time series analysis notebooks.
 
-#Requirements:
+# Requirements:
 
 Google Colab or Jupyter Notebooks.
 
