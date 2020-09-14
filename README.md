@@ -10,4 +10,4 @@ All data is in the dataset folder.
 
 An empty Capstone project notebook is available as well.
 
-Notes are attached too in ppx
+Notes are attached too in .pptx format.
